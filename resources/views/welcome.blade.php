@@ -5,13 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
-
-        <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-
-        <!-- Styles -->
         <style>
-            html, body {
+            html, body 
+            {
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
@@ -20,35 +17,42 @@
                 margin: 0;
             }
 
-            .full-height {
+            .full-height 
+            {
                 height: 100vh;
             }
 
-            .flex-center {
+            .flex-center 
+            {
                 align-items: center;
                 display: flex;
                 justify-content: center;
             }
 
-            .position-ref {
+            .position-ref 
+            {
                 position: relative;
             }
 
-            .top-right {
+            .top-right 
+            {
                 position: absolute;
                 right: 10px;
                 top: 18px;
             }
 
-            .content {
+            .content
+            {
                 text-align: center;
             }
 
-            .title {
+            .title 
+            {
                 font-size: 84px;
             }
 
-            .links > a {
+            .links > a 
+            {
                 color: #636b6f;
                 padding: 0 25px;
                 font-size: 13px;
@@ -58,7 +62,8 @@
                 text-transform: uppercase;
             }
 
-            .m-b-md {
+            .m-b-md
+            {
                 margin-bottom: 30px;
             }
         </style>
